@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'futura-bold';
+    src: url(/softerio/fonts/futura-bold.ttf) format('truetype') ;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futura-pt-light';
+    src: url(/softerio/fonts/futura-pt-light.ttf) format('truetype') ;
+    font-weight: normal;
+    font-style: normal;
+}
